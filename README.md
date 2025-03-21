@@ -1,1 +1,1 @@
-# NeuralNetworks_Project
+# Neural_Networks_Project
